@@ -1,0 +1,23 @@
+# Игнорир байт-кода и кеш-папки Python
+*.py[cod]
+__pycache__/
+
+# Игнориру виртуального окружения
+venv/
+.venv/
+
+# Игнориру личных настроек окружения
+.env
+
+# Блокнот jupyter notebook
+.ipynb_checkpoints
+
+# Дамп SQLite базы данных
+*.db
+
+# Файлы и папки IDE
+.idea/
+
+# Temporaries
+*.tmp
+*.bak
